@@ -8,3 +8,8 @@
 
    2.2.1 To lauch the client you need to open 'client' folder path in console and run 	command 'npm install' - it will automatically download all required files    
    2.2.2 Then run command 'npm start electron:serve' to launch program
+
+# Screenshots
+![](images/gym.PNG)
+![](images/rest.PNG)
+![](images/user.PNG)
