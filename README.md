@@ -12,4 +12,4 @@
 # Screenshots
 ![](images/gym.PNG)
 ![](images/rest.PNG)
-![](images/user.PNG)
+![](images/user.png)
